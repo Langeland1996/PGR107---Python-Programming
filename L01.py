@@ -124,7 +124,7 @@ print(theMinimum(20, 25))
 print("\n")
 
 
-# 5. Properly format the output in Exercise 4 as follows.
+# 5. Properly format the output in Exercise 4 as follows.ss
 print("Task - 05")
 def formatFunction(arg1, arg2):
 
